@@ -4,10 +4,10 @@ namespace CSharpBasics
 {
     class HelloWOrld
     {
-        /*static void Main(string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
         }
-        */
+        
     }
 }
